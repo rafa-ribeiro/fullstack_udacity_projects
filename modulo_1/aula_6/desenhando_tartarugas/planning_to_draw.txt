@@ -1,0 +1,4 @@
+Steps to draw circle using squares
+1 - Draw the first square
+2 - Turn the turtle briefly to another angle
+3 - Repeat steps 1 and 2 until the turtle complete a round from start position 

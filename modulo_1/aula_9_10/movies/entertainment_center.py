@@ -19,7 +19,7 @@ avatar = media.Movie(
 # print(avatar.storyline)
 
 avengers = media.Movie(
-	"Avender Infinity War",
+	"Avengers Infinity War",
 	"The history of a crazy Titan that plans to exterminate half the population of the Universe.",
 	"https://http2.mlstatic.com/poster-cartaz-filme-a3-marvel-vingadores-guerra-infinita-09-D_NQ_NP_684076-MLB27154811623_042018-F.jpg",
 	"https://www.youtube.com/watch?v=6ZfuNTqbHE8"
@@ -34,5 +34,5 @@ avengers = media.Movie(
 # print(media.Movie.VALID_RATINGS)
 
 print(media.Movie.__doc__)
-print("Clas: " + media.Movie.__name__)
+print("Class: " + media.Movie.__name__)
 print("Module: " + media.Movie.__module__)
